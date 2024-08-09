@@ -1,7 +1,7 @@
 ## [Main title](../README.md)
 ### [Interview questions](full.md)
 # Bigquery
-+ [Can you explain the concept of BigQuery's workload management](Can-you-explain-the-concept-of-BigQuery's-workload-management)
++ [Can you explain the concept of BigQuery's workload management](#Can-you-explain-the-concept-of-BigQuery's-workload-management)
 + [How does BigQuery handle nested data types like arrays and structs](How-does-BigQuery-handle-nested-data-types-like-arrays-and-structs)
 + [What are the key advantages of using BigQuery](What-are-the-key-advantages-of-using-BigQuery)
 + [Can you share your experience with implementing data pipelines in BigQuery](Can-you-share-your-experience-with-implementing-data-pipelines-in-BigQuery)
